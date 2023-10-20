@@ -3,11 +3,11 @@ Este repositorio es para el curso Programación de Estructuras de Datos y Algori
 
 Videos de los problemas:
 
-- Algoritmo de ordenamiento:
+ - Algoritmo de ordenamiento:
 
 
-- Estructuras de datos lineales:
+ - Estructuras de datos lineales:
 
 
-- Estructuras de datos no lineales:
+ - Estructuras de datos no lineales:
 
