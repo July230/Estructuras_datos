@@ -1,7 +1,9 @@
 # Estructuras_datos
 Este repositorio es para el curso Programación de Estructuras de Datos y Algoritmos Fundamentales
 
-Videos de los problemas:
+Ian Julián Estrada Castro - A01352823
+
+## Videos de los problemas:
 
  - Algoritmo de ordenamiento:
 
