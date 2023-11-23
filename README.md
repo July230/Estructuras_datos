@@ -1,7 +1,9 @@
 # Estructuras_datos
-Este repositorio es para el curso Programación de Estructuras de Datos y Algoritmos Fundamentales
-
 Ian Julián Estrada Castro - A01352823
+
+Este repositorio es para el curso Programación de Estructuras de Datos y Algoritmos Fundamentales
+Dentro de la carpeta Proyecto se encuentra el proyecto realizado en el curso a lo largo del semestre.
+Además del proyecto en este readme se encuentran las ligas a los videos de problemas realizados en plataformas no vistas en el curso.
 
 ## Videos de los problemas:
 
