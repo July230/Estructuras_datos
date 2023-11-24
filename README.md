@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1SGr-b_HlkU1JRTwe_vDd1QIJnirirtsK/view?usp=shari
 
  - Liga a la solución: 
 
- - Estructuras de datos no lineales: \n
+ - Estructuras de datos no lineales: 
 
  - Liga a la solución: 
 
