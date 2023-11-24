@@ -8,10 +8,16 @@ Además del proyecto en este readme se encuentran las ligas a los videos de prob
 ## Videos de los problemas:
 
  - Algoritmo de ordenamiento:
-https://drive.google.com/file/d/1Fz82PArtP6XhHM3NJamj9hdz86w8we6d/view?usp=sharing
+https://drive.google.com/file/d/1Fz82PArtP6XhHM3NJamj9hdz86w8we6d/view?usp=sharing \n
 
+ - Liga a la solución: 
+ 
  - Estructuras de datos lineales:
-https://drive.google.com/file/d/1SGr-b_HlkU1JRTwe_vDd1QIJnirirtsK/view?usp=sharing
+https://drive.google.com/file/d/1SGr-b_HlkU1JRTwe_vDd1QIJnirirtsK/view?usp=sharing \n
 
- - Estructuras de datos no lineales:
+ - Liga a la solución: 
+
+ - Estructuras de datos no lineales: \n
+
+ - Liga a la solución: 
 
