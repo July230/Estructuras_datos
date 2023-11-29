@@ -14,5 +14,5 @@ https://drive.google.com/file/d/1Fz82PArtP6XhHM3NJamj9hdz86w8we6d/view?usp=shari
 https://drive.google.com/file/d/1SGr-b_HlkU1JRTwe_vDd1QIJnirirtsK/view?usp=sharing 
 
  - Estructuras de datos no lineales: 
-
+https://drive.google.com/file/d/1WxO1QTadZQzJeht02Hv9d2q59ssRiIZ_/view?usp=sharing
 
