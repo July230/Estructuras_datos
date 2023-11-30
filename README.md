@@ -1,4 +1,4 @@
-# Estructuras_datos
+# Programación de eEstructuras de Datos y Algoritmos Fundamentales
 Ian Julián Estrada Castro - A01352823
 
 Este repositorio es para el curso Programación de Estructuras de Datos y Algoritmos Fundamentales.
